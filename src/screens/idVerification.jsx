@@ -123,4 +123,3 @@ const IdVerification = () => {
 
 export default IdVerification;
 
-const styles = StyleSheet.create({});
